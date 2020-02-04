@@ -1,0 +1,9 @@
+{
+  "deleteForm.warningMessage.part1": "Confirm your decision. This action cannot be undone. Please type",
+  "deleteForm.warningMessage.part2": "in the box.",
+  "deleteForm.form.button.delete": "Delete",
+  "deleteForm.form.button.cancel": "Cancel",
+  "deleteForm.modal.insertKey": "insert key",
+  "deleteForm.form.requiredMessage": "This field is required.",
+  "deleteForm.error.differently": "Please insert the correct value."
+}

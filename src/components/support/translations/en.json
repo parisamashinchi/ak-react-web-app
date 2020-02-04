@@ -1,0 +1,13 @@
+{
+  "support.request" : "How may I help you?",
+  "support.requestPopup" : "How may I help you?",
+  "support.buttonRequest" : "New ticket",
+  "support.required" : "Tickets",
+  "support.activity" : "Activity",
+  "support.state" : "State",
+  "support.department" : "Department",
+  "support.emptyConversation1" : "Select your conversation",
+  "support.emptyConversation2" : "from the list.",
+  "createRequest.form.button.create" : "Submit",
+  "createRequest.form.button.cancel" : "Cancel"
+}

@@ -1,0 +1,13 @@
+{
+  "topBar.dropDown.hi": "Hi",
+  "topBar.balance": "Balance",
+  "topBar.prsInfo": "Information",
+  "topBar.bill": "Bills",
+  "topBar.affiliation": "Affiliation",
+  "topBar.wallet": "Wallet",
+  "topBar.profile": "Profile",
+  "topBar.logOut": "Log out",
+  "topBar.mark": "Mark as seen",
+  "topBar.noData": "There are not any notifications.",
+  "topBar.changePassword": "Change password"
+}
