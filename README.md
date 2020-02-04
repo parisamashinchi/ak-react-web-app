@@ -1,5 +1,4 @@
 # AK Web App
-![alt text]
 ---
 This is  project of [AK](http://tehran.irannsr.org/services/trade_unit/134523).
 
