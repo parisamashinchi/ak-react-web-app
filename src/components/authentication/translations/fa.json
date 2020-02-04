@@ -1,6 +1,5 @@
 {
   "signUp.home": "خانه",
-  "signUp.header": "به رایانش ابری پیشرو خوش آمدید.",
   "signUp.accountExit" : "حساب کاربری ندارید؟",
   "signUp.login" : "ورود",
   "signUp.email" : "ایمیل",
@@ -15,7 +14,6 @@
   "signUp.terms" : " شرایط و ضوابط ",
   "signUp.and" : " و",
   "signUp.condition" : " حریم خصوصی ",
-  "signUp.conditionText" : " پیشرو را می پذیرید.",
   "signUp.copyRight" : "@2019 AK CC. All Right Are Reserved",
   "signUp.error.required": "این فیلد ضروری است.",
   "signUp.error.phoneNumberOnlyNumeric": "فقط عدد",
@@ -60,6 +58,5 @@
   "success.button" : "ادامه",
   "elecomp.title1": "1 سال خدمات رایگان" ,
   "elecomp.title2": "به ارزش ۳۰,۰۰۰,۰۰۰ تومان",
-  "elecomp.title3": "به غرفه پیشرو در الکامپ بیایید.",
   "elecomp.back": "بازگشت"
 }

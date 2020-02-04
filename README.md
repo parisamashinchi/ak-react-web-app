@@ -1,5 +1,5 @@
 # AK Web App
-![alt text](http://www.upsara.com/images/lhlv_logoorange.png)
+![alt text]
 ---
 This is  project of [AK](http://tehran.irannsr.org/services/trade_unit/134523).
 
